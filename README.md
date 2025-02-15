@@ -26,7 +26,7 @@ npm install
 npm run dev
 
 ## 📷 Preview  
-![Project Preview](./public/porject_view.png)  
+![Project Preview](./public/project_view.png)  
 
 🤝 Contributing
 
